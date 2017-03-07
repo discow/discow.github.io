@@ -1,7 +1,7 @@
 # Site settings
 title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+description: "DiscoW: Progressive Discourse on the Web"
+url: "https://discow.github.io"
 
 
 
@@ -13,10 +13,10 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
+github_username:  meefen
+project_repository: discow.github.io
 disqus_shortname: project-pages
-g-analytics: UA-75881392-1
+g-analytics: UA-75881392-9
 altmetric: true
 
 # Build settings
