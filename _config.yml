@@ -6,7 +6,7 @@ url: "https://cligr.github.io"
 
 # Secondary Parameters
 baseurl: "/"
-header-img: /img/home-bg.jpg
+header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
