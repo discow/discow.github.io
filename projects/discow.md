@@ -1,9 +1,6 @@
 ---
 layout: project
 title: "DiscoW"
-description: "NSF: Progressive Discourse on the Web"
-header-img: "img/home-bg.jpg"
+description: "Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms"
 category: DiscoW
 ---
-
-DiscoW
