@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "CLIGr"
+description: "Who we are?"
 header-img: "img/home-bg.jpg"
 ---
 
@@ -17,6 +17,9 @@ The <b>Collective Learning and Intelligence Group (CLIGr)</b> is an informal, in
 
 	<h2>{{ member.role }}</h2>
 
+	{% if member.twitter %}
+	<span class="social-share-twitter"><a href="https://twitter.com/{{ member.twitter }}" title="Twitter"><img src="{{ "/img/icons/twitter-icon.png" | prepend: site.baseurl }}" style="height:20px">Twitter</a></span>
+	{% endif %}
 	{% if member.github %}
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span>
 	{% endif %}

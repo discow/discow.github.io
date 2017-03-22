@@ -3,14 +3,25 @@
 - name: Bodong Chen
   role: Assistant Professor
   img: http://bodong.ch/assets/images/bodong.jpg
+  twitter: bod0ng
   github: meefen
   bio: Bodong Chen is an Assistant Professor in the Department of Curriculum and Instruction in the College of Education and Human Development at the University of Minnesota, where he does research in learning technologies, learning analytics, and knowledge building.
   url: http://bodong.ch/
   visible: true
 
+- name: Fan Ouyang
+  role: PhD Candidate
+  img: /img/profiles/fan.jpg
+  twitter: FanOuyang
+  linkedin: fanouyang
+  bio: I am a doctoral candidate in Learning Technologies program in the University of Minnesota. My research centers on learners’ online learning engagement as well as instructors’ online pedagogy development. I use social network analysis, content analysis and discourse analysis to analyze online interaction, participation, and collaborative learning. I have taught computer science courses in a Chinese university for 6 years, and currently teach undergraduate-level online courses of learning technologies and tools in education and business in the University of Minnesota.
+  url: https://fanouyang.net/
+  visible: true
+
 - name: Tianhui Huang
-  role: Visiting Scholar / PhD Candidate
-  bio: Tianhui is a visiting scholar from Fudan University in Shanghai. She majors in higher education and has an interest in online learning, social network analysis, and MOOCs.
+  role: Visiting Scholar / PhD Student
+  img: /img/profiles/thuang.jpg
+  bio: Tianhui is a visiting PhD student from Fudan University (China), who majors in educational economics and management. Tianhui got her master's degree in distance education and studied educational technology for her undergraduate degree. She is currently visiting the U for a year to work with Professor Chen.
   visible: true
 
 - name: Surya R. Kalidindi
