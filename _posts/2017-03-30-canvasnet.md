@@ -2,7 +2,9 @@
 layout:     post
 title:      "CanvasNet: Formative feedback for 'social learning' on Canvas"
 author:     Bodong Chen
-tags: 		'social learning'
+tags:
+- social learning
+- learning analytics
 category:  SLEA
 visualworkflow: true
 ---
