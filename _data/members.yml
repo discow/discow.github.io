@@ -19,14 +19,13 @@
   visible: true
 
 - name: Tianhui Huang
-  role: Visiting Scholar / PhD Student
+  role: PhD Student / Visiting Scholar
   img: /img/profiles/thuang.jpg
   bio: Tianhui is a visiting PhD student from Fudan University (China), who majors in educational economics and management. Tianhui got her master's degree in distance education and studied educational technology for her undergraduate degree. She is currently visiting the U for a year to work with Professor Chen.
   visible: true
 
-- name: Surya R. Kalidindi
-  role: Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
-  visible: false
+- name: Ramya Sivaraj
+  role: PhD Student
+  img: /img/profiles/sivaraj.jpeg
+  bio: I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
+  visible: true
