@@ -2,6 +2,7 @@
 layout:     post
 title:      "We're hiring! Research Assistant for DiscoW"
 category:  DiscoW
+author:     Admin
 tags:
 - discourse design
 - knowledge building
